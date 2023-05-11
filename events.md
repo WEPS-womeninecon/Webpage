@@ -43,8 +43,8 @@ Join us for our **first conference on sexual and gender-based violence at Univer
   *	Author of *« Mind the Gap : avancées et résistances dans la prise en charge des violences sexuelles et sexistes dans le monde académique (2002-2022) »* (2023), Mouvements, vol. 113, n°1, 2023
 
 
-*	A militant of CLASCHES [To be confirmed]
-* Other remain to confirm as well as the place! 
+*	A militant of CLASCHES 
+
 
 ## Where?
 <address>  
