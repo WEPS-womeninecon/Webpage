@@ -38,7 +38,7 @@ Join us for our **first conference on sexual and gender-based violence at Univer
   *	Author of *‘La sexualité en colloque, une « parenthèse enchantée » ? Violences et rituel professionnels à l’épreuve de l’égalité des carrières scientifiques’*
 
 ![image-right]({{ '/assets/Andro.jpg' | absolute_url }}){: .align-right}
-*	[Armelle ANDRO](https://www.cairn.info/publications-de-Armelle-Andro--15389.htm), **demographer**, senior lecturer at Institut de démographie de l'Université Paris 1 associated researcher at Ined, referent for equality gender at Université Paris 1 from 2020 to 2022 
+*	[Armelle ANDRO](https://www.cairn.info/publications-de-Armelle-Andro--15389.htm), **demographer**, Professor at the University of Paris 1 Panthéon-Sorbonne, Scientific Director of the Public Health Department of the City of Paris
 
   *	Author of *« Mind the Gap : avancées et résistances dans la prise en charge des violences sexuelles et sexistes dans le monde académique (2002-2022) »* (2023), Mouvements, vol. 113, n°1, 2023
 
