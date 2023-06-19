@@ -18,7 +18,7 @@ elements:
  **Women in Economics Paris and Saclay (WEPS)** is an initiative dedicated to evaluate, reflect on and improve the place of **women and gender minorities** in **Economics**. We do so by diffusing academic knowledge on gender imbalances, creating spaces to share experiences, and strengthening connections between women economists and economists from gender minorities. Join us in this important initiative to create a **more inclusive and diverse economics profession**.
 {: .notice--accent}
 
-**Next event:** <ins>May 16, 2023 – 6.30pm</ins> - Save the date for our **first conference on sexual and gender-based violence at university** at **CREST - ENSAE** - [Click here for more information](https://weps-womeninecon.github.io/Webpage/events/)
+**Next event:** <ins>June 26th, 2023 – 6pm</ins> - Save the date for our **end-of-the-year drink** at **L'imprévu - 35 rue Didot  75014 Paris** - [Click here for more information](https://weps-womeninecon.github.io/Webpage/events/)
 {: .notice--danger}
 
  
