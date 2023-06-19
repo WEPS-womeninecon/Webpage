@@ -17,6 +17,19 @@ elements:
 
 # Next event 
 
+<p style="text-align:center"><strong>June 26th, 2023- 6pm</strong></p>
+{: .notice--warning}
+
+The academic year is reaching its end, and WEPS is happy to invite you to **its last informal drink**. This is an opportunity to gather, discuss the latest news regarding gender equality, and think about what we could do next. And if we haven't met yet, to properly get to know each other!
+
+To discover WEPS, discuss future initiatives, and make your voice heard, we kindly invite you to our end-of-the-year drink at: 
+<address>  
+  <p style="text-align: center;">L'imprévu<br />35 rue Didot<br />75014 Paris </p>
+</address> 
+
+
+# Last event
+
 <p style="text-align:center"><strong>May 16, 2023- 6.30pm</strong></p>
 {: .notice--warning}
 
