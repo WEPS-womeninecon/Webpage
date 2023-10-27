@@ -15,7 +15,9 @@ elements:
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Next event 
+# Last events
+
+## June 26 event
 
 <p style="text-align:center"><strong>June 26th, 2023- 6pm</strong></p>
 {: .notice--warning}
@@ -28,7 +30,10 @@ To discover WEPS, discuss future initiatives, and make your voice heard, we kind
 </address> 
 
 
-# Last event
+## May 16 event
+
+<p style="text-align:center"><strong>[Click here to see the summary of the event]([https://elasskenza.github.io/website](https://weps-womeninecon.github.io/Webpage/event_may_16_2023/)</strong></p>
+{: .notice--alert}
 
 <p style="text-align:center"><strong>May 16, 2023- 6.30pm</strong></p>
 {: .notice--warning}
@@ -39,7 +44,7 @@ Join us for our **first conference on sexual and gender-based violence at Univer
 *	The **tools and solutions** at the institutional level  to fight against those violences 
 
 
-## Our guests so far: 
+### Our guests so far: 
 
 ![image-right]({{ '/assets/Albenga.jpg' | absolute_url }}){: .align-right}
 *	[Viviane Albenga](https://mica.u-bordeaux-montaigne.fr/albenga-viviane/), **sociologist** at Université Bordeaux-Montaigne, Sociology of **Gender and intersectionality**
@@ -59,7 +64,7 @@ Join us for our **first conference on sexual and gender-based violence at Univer
 *	A militant of CLASCHES 
 
 
-## Where?
+### Where?
 <address>  
   <p style="text-align: center;"> ENSAE<br /> Amphithéâtre 250<br /> 5 Avenue Henri le Châtelier<br /> 91120 Palaiseau </p>
 </address> 
