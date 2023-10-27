@@ -22,7 +22,7 @@ On May 16th 2023, we organized our **first conference on sexual and gender-based
 
 <object data="../assets/pdf/Long_Summary_GBSV_Conference_May_16_2023.pdf" width="1000" height="1000" type='application/pdf'></object>
 
-## French summary
+## French full transcript
 
 <object data="../assets/pdf/Retranscription_Conference_VSS_16_mai_2023.pdf" width="1000" height="1000" type='application/pdf'></object>
 
