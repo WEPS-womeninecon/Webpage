@@ -19,7 +19,7 @@ elements:
 {: .notice--accent}
 
 **New:**  
-- [Click here to see the summary of our last conference](https://weps-womeninecon.github.io/Webpage/event_may_16_2023/)
+[Click here to see the summary of our last conference](https://weps-womeninecon.github.io/Webpage/event_may_16_2023/)
 {: .notice--danger}
  
  
