@@ -93,3 +93,21 @@ WEPS welcomes in its organization, any person who would like to get involved. WE
 
 &nbsp; <i class="fas fa-fw fa-link"></i> [https://sites.google.com/view/eleonore-richard/](https://sites.google.com/view/eleonore-richard/)
 &nbsp; <i class="fab fa-fw fa-twitter-square"></i> @EleonoreRcd
+
+
+
+
+
+
+
+
+![image-right]({{ '/assets/maelle.JPG' | absolute_url }}){: .align-left} 
+
+&nbsp; **Maëlle Stricot** is a **PhD student in Economics at Université Paris 1 Panthéon-Sorbonne and the Paris School of Economics.**
+
+&nbsp; Her research focuses on the impact of media and public policies on the prevalence, reporting, and judicial treatment of violence against women, in both developed and developing countries.
+
+&nbsp; <i class="fa fa-envelope"></i> [maelle.stricot@psemail.eu](maelle.stricot@psemail.eu)
+
+&nbsp; <i class="fas fa-fw fa-link"></i> [https://www.parisschoolofeconomics.eu/fr/stricot-maelle/](https://www.parisschoolofeconomics.eu/fr/stricot-maelle/)
+&nbsp; <i class="fab fa-fw fa-twitter-square"></i> @StricotMaelle
