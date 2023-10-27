@@ -11,7 +11,7 @@ elements:
   - markup  
 ---
 
-  * WEPS has organised many events since its creation. In Last event, in October 2022, we organised a discussion leaded by Hélène Périvier, author of _"L'économie féministe"_. This event was a success as it gathered many young economists from all over the Paris area.
+  * WEPS has organised many events since its creation. In October 2022, we organised a discussion led by Hélène Périvier, author of _"L'économie féministe"_. This event was a success as it gathered many young economists from all over the Paris area.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
