@@ -32,7 +32,7 @@ To discover WEPS, discuss future initiatives, and make your voice heard, we kind
 
 ## May 16 event
 
-[Click here to see the summary of the event](https://weps-womeninecon.github.io/Webpage/event_may_16_2023/)
+<p style="text-align:center"><strong>[Click here to see the summary of the event](https://weps-womeninecon.github.io/Webpage/event_may_16_2023/)</strong></p>
 {: .notice--danger}
 
 <p style="text-align:center"><strong>May 16, 2023- 6.30pm</strong></p>
