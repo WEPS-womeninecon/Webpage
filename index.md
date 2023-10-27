@@ -19,8 +19,7 @@ elements:
 {: .notice--accent}
 
 **New:** <p style="text-align:center"><strong>[Click here to see the summary of our last conference](https://weps-womeninecon.github.io/Webpage/event_may_16_2023/)</strong></p>
-{: .notice--danger}
-
+ 
  
 ### Why now? 
  
